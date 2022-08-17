@@ -1,20 +1,27 @@
-# oop2022fall
+# OOP course @ HNU CE undergrad
+Object-Oriented Programming course @ HNU CE undergrad
+
+2022년 2학기 한남대학교 컴퓨터공학과 객체지향프로그래밍 과목 홈페이지입니다.
 
 ## ToDo
 
+## Programming languages and related tools for course activities
+ * [Java](https://www.oracle.com/kr/java/)
+   with [Jupyter notebook](https://jupyter.org/)
+   using the [java-notebook](https://github.com/jbindinga/java-notebook) Docker image
+   running [IJava](https://github.com/SpencerPark/IJava) kernel
+   based on [JShell](https://docs.oracle.com/javase/9/jshell/introduction-jshell.htm)
+* [Kotlin](https://kotlinlang.org/)
+   with [JetBrains Datalore](https://datalore.jetbrains.com/)
+
 ## Links
 
-### Dev. tools for this course
+### Docker
+* [Docker가 뭐고 왜 쓰는건가요?](https://youtu.be/tPjpcsgxgWc) -- *얄팍한 코딩사전* on YouTube
 
-#### ijava-jupyter-stack Docker image
-* Launch on binder
-  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jbindinga/java-notebook/master)
-  Try online (no installation needed)
-* Docker Hub
-  [hub.docker.com/r/jbindinga/java-notebook](https://hub.docker.com/r/jbindinga/java-notebook)
-
-#### JetBrains Datalore
-* https://datalore.jetbrains.com/
+### WSL2
+* [WSL 2: Getting started](https://youtu.be/_fntjriRe48) -- *David Bombal* on YouTube
+* [WSL 2 with Docker getting started](https://youtu.be/5RQbdMn04Oc) -- *David Bombal* on YouTube
 
 ### on Programming paradigms
 * [함수형 프로그래밍이 뭔가요?](https://youtu.be/jVG5jvOzu9Y) -- *얄팍한 코딩사전* on YouTube
