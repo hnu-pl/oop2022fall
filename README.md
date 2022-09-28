@@ -3,27 +3,6 @@ Object-Oriented Programming course @ HNU CE undergrad
 
 2022년 2학기 한남대학교 컴퓨터공학과 객체지향프로그래밍 과목 홈페이지입니다.
 
-## Syllabus 
-아래 강의 계획은 실제 수업을 진행하며 현장 상황에 따라 진도의 순서나 내용 등이 바뀔 수 있다.
-강의계획을 보면 알곘지만 선정 교재의 일부 내용을 참고하기는 하나 순서나 진행은 교재의 흐름과는 다르게 흘러갈 수 있다.
-두 가지 언어를 다루는 두 개의 교재에서 필요한 부분만 참고하며 수업이 진행되니 그에 맞춰 능동적으로 학습한다고 생각하는 것이 좋다.
-
-* 01주: 과목소개, 객체지향의 역사, Java 데이터 타입, Java 배열 다루기 (이 외의 Java 교재 04장까지는 스스로 읽어보기) 
-* 02주: Java의 클래스와 객체  (Java의 클래스, equals, toString, 생성자)
-* 03주: 동물 분류 예제 (상속, 인터페이스, 오버로딩, 오버라이딩)
-* 04주: Java의 this, super, instanceof
-* 05주: Kotlin 소개
-* 06주: 미정 (채점결과 확인/정정 및 진도가 밀리거나 할 경우에 대비한 여유 공간)
-* 07주: 중간고사 (과제 형식으로 대체될 수도 있음)
-* 08주: 
-* 09주:
-* 10주:
-* 11주:
-* 12주:
-* 13주:
-* 14주: 기말고사 (과제 형식으로 대체될 수도 있음)
-* 15주: 미정 (채점결과 확인/정정 및 진도가 밀리거나 할 경우에 대비한 여유 공간)
-
 ## Textbooks
 ### 이번 수업 교재
 * [처음 해보는 자바 프로그래밍](https://www.rubypaper.co.kr/entry/%EC%B2%98%EC%9D%8C-%ED%95%B4%EB%B3%B4%EB%8A%94-%EC%9E%90%EB%B0%94-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D), 오정임 지음, 루비페이퍼
@@ -63,7 +42,10 @@ Object-Oriented Programming course @ HNU CE undergrad
    running [IJava](https://github.com/SpencerPark/IJava) kernel
    based on [JShell](https://docs.oracle.com/javase/9/jshell/introduction-jshell.htm)
 * [Kotlin](https://kotlinlang.org/)
-   with [JetBrains Datalore](https://datalore.jetbrains.com/)
+   either with [Jupyter notebook](https://jupyter.org/)
+   using [Kotin notebook](https://github.com/knonm/kotlin-notebook)
+   running [Kotlin kernel](https://github.com/Kotlin/kotlin-jupyter),
+   or with [JetBrains Datalore](https://datalore.jetbrains.com/)
 
 ## Links
 
